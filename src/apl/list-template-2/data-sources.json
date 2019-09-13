@@ -1,0 +1,173 @@
+{
+    "listTemplate2Metadata": {
+        "type": "object",
+        "objectId": "lt1Metadata",
+        "backgroundImage": {
+            "contentDescription": null,
+            "smallSourceUrl": null,
+            "largeSourceUrl": null,
+            "sources": [
+                {
+                    "url": "https://s3.amazonaws.com/asl-for-families/ASL-for-Family-BKG.png",
+                    "size": "small",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                },
+                {
+                    "url": "https://s3.amazonaws.com/asl-for-families/ASL-for-Family-BKG.png",
+                    "size": "large",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                }
+            ]
+        },
+        "title": "Results for \"ASL for Family\"",
+        "logoUrl": "https://s3.amazonaws.com/asl-for-families/logo.png"
+    },
+    "listTemplate2ListData": {
+        "type": "list",
+        "listId": "lt2Sample",
+        "totalNumberOfItems": 10,
+        "hintText": "Try, \"Alexa, learn basic words.\"",
+        "listPage": {
+            "listItems": [
+                {
+                    "listItemIdentifier": "learn_basic_words",
+                    "ordinalNumber": 1,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Learn Basic Words"
+                        },
+                        "secondaryText": {
+                            "type": "PlainText",
+                            "text": "Try: \"Alexa, sign for eat.\""
+                        }
+                    },
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://s3.amazonaws.com/asl-for-families/word_3.png",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/asl-for-families/word_3.png",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "learn_basic_words"
+                },
+                {
+                    "listItemIdentifier": "learn_conversation",
+                    "ordinalNumber": 2,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Learn Conversation"
+                        },
+                        "secondaryText": {
+                            "type": "RichText",
+                            "text": "Try: \"Alexa, learn how are you doing?\""
+                        }
+                    },
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://s3.amazonaws.com/asl-for-families/word_3.png",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/asl-for-families/word_3.png",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "learn_conversation"
+                },
+                {
+                    "listItemIdentifier": "play_game",
+                    "ordinalNumber": 3,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Play Game"
+                        },
+                        "secondaryText": {
+                            "type": "RichText",
+                            "text": "Try: \"Alexa, play game with friends.\""
+                        }
+                    },
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://s3.amazonaws.com/asl-for-families/word_3.png",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/asl-for-families/word_3.png",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "play_game"
+                },
+                {
+                    "listItemIdentifier": "dictionary",
+                    "ordinalNumber": 1,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Dictionary"
+                        },
+                        "secondaryText": {
+                            "type": "PlainText",
+                            "text": "Try: \"Alexa, lookup the word for firetruck.\""
+                        }
+                    },
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://s3.amazonaws.com/asl-for-families/word_3.png",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/asl-for-families/word_3.png",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "dictionary"
+                }
+            ]
+        }
+    }
+}
